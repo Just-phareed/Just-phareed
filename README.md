@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aliyu Fareed 
 
-<!--
-**Just-phareed/Just-phareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate tech learner and aspiring web developer. Currently learning through an online tech program where I'm building my skills in HTML, CSS, JavaScript, and more.
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm working on:
+- Personal Portfolio Website 🌐
+- Responsive Landing Page 📱
+- GitHub Profile README 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- HTML / CSS / JavaScript
+- Git & GitHub
+- Visual Studio Code
+- Figma (basics)
+
+## 📫 How to reach me:
+- LinkedIn:  https://www.linkedin.com/in/aliyu-fareed-1782b6343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email: aliyufareed29@gmail.com
+
+- Learning never stops......I'm commited to growing one line of code at a time.
